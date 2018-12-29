@@ -58,7 +58,7 @@ midi devices depending on the number of instruments loaded in the audio channel.
 ![Splinker Midi](/images/splinker_midi.png)
 
 6. Turn on the note, cc, or ableton parameter button for whichever event you'd
-like to trigger per-channel.  You can do then simultanously, as well.
+like to trigger per-channel.  They can operate simultanously, as well.
 
 If everything worked, you can now sit back and have fun splinking!
 

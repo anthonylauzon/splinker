@@ -6,7 +6,7 @@
 Splinker is a max for live project that can, in real-time, read events from a 
 stream of audio, compare the events to a trained database of known
 samples, and then trigger different midi notes, CC, or ableton parameter changes 
-when matches are found.  It is built around on Pure Data's excellent 'bonk~' 
+when matches are found.  It is built on Pure Data's excellent 'bonk~' 
 object.
 
 ## Installation 

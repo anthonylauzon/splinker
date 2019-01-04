@@ -13,7 +13,7 @@ object.
 ---------------
 Supposing you run Live 10 and Max 8 on Mac:
 
-1. Plac the splinker repository contents to ~/Documents/Max8/Library
+1. Place the splinker repository contents to ~/Documents/Max8/Library
 2. Download or compile bonk~.mxo from http://github.com/anthonylauzon/bonk
 3. Place bonk~.mxo file in ~/Documents/Max8/Library
 
